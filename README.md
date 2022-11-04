@@ -77,3 +77,4 @@ const styles = StyleSheet.create({
 
 export default App;
 ```
+<img src="https://github.com/demircisena/React-Native-Scrollview/blob/main/Screenshot_20221104-095813_AwesomeProject.jpg" width="auto">
