@@ -3,7 +3,7 @@
   Scrollview tüm yapıyı tek seferde render ettiği için ,çok fazla component içeren uzun yapılı projeler için dezavantaj olabilir.Düşünün belki cihaz ekranında sadece birkaç bileşen görebiliyoruz.Ancak Scrollview ekranda görmediğimiz kısımları da render ediyor.Bu büyük çaplı projeler için ciddi performans düşüklüğüne sebep olabilir.Büyük çaplı projelerde scrollview yerine FlatList bileşeni önerilir.FlatList öğeleri görünmek üzereyken tembel bir şekilde işler ve bellekten ve işlem süresinden tasarruf etmek için ekranın dışına kayan öğeleri kaldırır.Bu şekilde sadece ekranda görüntülediğimiz bileşenler render edilir.Ancak küçük çaplı projeler için Scrollview kullanmak ideal.
 
 
- Scrollview için kullanılan proplar 
+ ### Scrollview için kullanılan proplar 
  <br>
 <img src="https://github.com/demircisena/React-Native-Scrollview/blob/main/scrollview%20props.png" width="800px" heigth="400">
 
@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
 export default App;
 ```
 
-
+### Çıktısı:
 <table class="image-table">
 <tbody>
 <tr>
