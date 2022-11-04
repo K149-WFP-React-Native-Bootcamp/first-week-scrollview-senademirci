@@ -4,6 +4,7 @@
 
 
  Scrollview için kullanılan proplar 
+ <br>
 <img src="https://github.com/demircisena/React-Native-Scrollview/blob/main/scrollview%20props.png" width="20px">
 
 
